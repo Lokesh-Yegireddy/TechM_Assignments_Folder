@@ -1,5 +1,6 @@
-
 // Java Program to Search an Element in an Array
+package Assignment_1;
+
 
 import java.util.Scanner;
 public class searchElement{

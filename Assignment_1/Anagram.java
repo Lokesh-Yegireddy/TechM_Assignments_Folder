@@ -3,6 +3,7 @@
 input:Ramu umar
 output:Anagram
  */
+package Assignment_1;
 
 import java.util.Arrays;
 
