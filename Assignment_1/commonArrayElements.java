@@ -23,7 +23,7 @@ public class commonArrayElements {
             }
         }
 
-        System.out.println(str);
+        System.out.println("Common Elements In Array :"+str);
     }
 }
 

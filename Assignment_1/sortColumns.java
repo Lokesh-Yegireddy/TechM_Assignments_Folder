@@ -1,4 +1,4 @@
-// ava Program to Sort the 2D Array Across Columns
+// Java Program to Sort the 2D Array Across Columns
 
 package Assignment_1;
 import java.util.*;
@@ -27,4 +27,3 @@ for(int i=0;i<3;i++) {
 	
 }
 }
-

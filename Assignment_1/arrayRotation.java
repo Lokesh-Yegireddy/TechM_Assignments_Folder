@@ -19,14 +19,11 @@ public class arrayRotation {
             leftRotation(arr, n);
         } else if (rotationType == 'R' || rotationType == 'r') {
             rightRotation(arr, n);
-        } else {
+        } else 
             System.out.println("Invalid Rotation Type");
-        }
-
         System.out.println("After Rotation");
         System.out.println(Arrays.toString(arr));
     }
-
     public static void leftRotation(int[] arr, int n) {
         while (n != 0) {
             int temp = arr[0];
