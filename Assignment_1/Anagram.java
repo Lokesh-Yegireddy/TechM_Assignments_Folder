@@ -29,20 +29,14 @@ public static void main(String args[])
 			// System.out.println(c2);
 			
 			 if(Arrays.equals(c1, c2))
-			 {
 				 System.out.println("It is An Anagram String");
-			 }
 			 else
-				 System.out.println("Not An Anagram String...!");
-			 
+				 System.out.println("Not An Anagram String...!");	 
 		}
 		else 
 			System.out.println("Not An Anagram String ---> It Is Identical String");
-			
-		
 	}
 	else 
 		System.out.println("Not An Anagram String...!");
-	
 }
 }
